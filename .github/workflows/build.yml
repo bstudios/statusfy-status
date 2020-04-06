@@ -18,4 +18,3 @@ jobs:
           access-token: ${{ secrets.BUILD_PERSONAL_ACCESS_TOKEN }}
           source-directory: dist
           build-command: npm run generate
-          custom-domain: status.jbithell.com 
