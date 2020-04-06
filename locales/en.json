@@ -1,0 +1,36 @@
+{
+  "title": "Bithell Studios",
+  "description": "Bithell Studios Ltd Status Page",
+  "links": {
+    "contact": "https://studios.jbithell.com/",
+    "home": "https://studios.jbithell.com/"
+  },
+  "systems": {
+    "items": {
+	  "adamrms-api": {
+        "title": "AdamRMS API",
+        "description": ""
+      },
+	  "adamrms-site": {
+        "title": "AdamRMS",
+        "description": "AdamRMS via a web browser"
+      },
+	  "adamrms-notifications": {
+        "title": "AdamRMS Notifications",
+        "description": "EMail & Push notifications for AdamRMS"
+      },
+	  "adamrms-app": {
+        "title": "AdamRMS App",
+        "description": "AdamRMS via a mobile app"
+      },
+	  "beepos-login": {
+        "title": "BeePOS Login",
+        "description": "Login system for tills"
+      },
+	  "beepos-endofday": {
+        "title": "BeePOS Reports",
+        "description": "Report Generation & End of Day for tills"
+      }
+    }
+  }
+}
