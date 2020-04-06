@@ -12,6 +12,7 @@ module.exports = {
     }
   ],
   "content": {
+	  "dir":"content",
     "frontMatterFormat": "json",
 	"systems": [
 		"adamrms-api", "adamrms-site", "adamrms-notifications", "adamrms-app", "beepos-login", "beepos-endofday"
