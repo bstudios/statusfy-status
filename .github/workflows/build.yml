@@ -1,0 +1,21 @@
+# .github/workflows/main.yml
+
+name: Github Pages Publish
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: sterlingwes/gh-pages-deploy-action@v1.1
+        with:
+          access-token: ${{ secrets.GITHUB_TOKEN }}
+          source-directory: dist
+          build-command: npm install && npm run generate
+          custom-domain: status.jbithell.com 
