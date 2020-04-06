@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "start": "statusfy start",
-	"install": "statusfy generate",
+    "install": "statusfy generate",
     "generate": "statusfy generate"
   },
   "dependencies": {

@@ -13,16 +13,21 @@ module.exports = {
   ],
   "content": {
 	  "dir":"content",
-    "frontMatterFormat": "json",
+    "frontMatterFormat": "yaml",
 	"systems": [
-		"adamrms-api", "adamrms-site", "adamrms-notifications", "adamrms-app", "beepos-login", "beepos-endofday"
+		"adamrms-site", "adamrms-notifications", "adamrms-app", "adamrms-api", "beepos-login", "beepos-endofday"
 	]
   },
   "theme": {
 		"links": {
-			"contact": "https://studios.jbithell.com/",
-			"home": "https://studios.jbithell.com/"
+			en: {
+				"contact": "https://studios.jbithell.com/",
+				"home": "https://studios.jbithell.com/"
+			}
 		},
+  },
+  "analytics": {
+	  "ga":"UA-26373319-8",
   },
   "baseUrl": "https://status.jbithell.com",
 }
