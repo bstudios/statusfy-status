@@ -17,5 +17,5 @@ jobs:
         with:
           access-token: ${{ secrets.GITHUB_TOKEN }}
           source-directory: dist
-          build-command: npm install && npm run generate
+          build-command: npm run generate
           custom-domain: status.jbithell.com 
