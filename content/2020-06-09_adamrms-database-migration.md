@@ -7,12 +7,16 @@ affectedsystems:
   - "adamrms-site"
   - "adamrms-api"
   - "adamrms-app"
-resolved: false
+resolved: true
 scheduled: 2020-06-09T12:45:00Z
 duration: 375
 ---
 
 <!--- language code: en -->
+
+::: update Resolved | 2020-06-09T22:30:00.007Z
+Build v1.12.02 has entered production, maintenance is now completed
+:::
 
 ::: update Ongoing | 2020-06-09T22:14:00.007Z
 The migration took longer than expected due to issues encountered adjusting the asset editing functionality. The migration is now complete and the caches are now being rebuilt which should be resolved by 22:30 UTC. 
