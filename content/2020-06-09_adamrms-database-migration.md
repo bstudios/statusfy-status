@@ -8,8 +8,8 @@ affectedsystems:
   - "adamrms-api"
   - "adamrms-app"
 resolved: false
-scheduled: 2020-06-09T14:00:00Z
-duration: 180
+scheduled: 2020-06-09T12:45:00Z
+duration: 240
 ---
 
 <!--- language code: en -->
