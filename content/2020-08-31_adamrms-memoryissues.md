@@ -8,7 +8,7 @@ affectedsystems:
   - "adamrms-api"
   - "adamrms-app"
   - "adamrms-notifications"
-resolved: false
+resolved: true
 
 ---
 
@@ -16,6 +16,10 @@ resolved: false
 AdamRMS exceeded server limits and crashed
 
 <!--- language code: en -->
+
+::: update Resolved | 2020-08-31T13:36:00Z
+Monitoring suggests that fault has been resolved by the upgrade and shouldn't re-occur
+:::
 
 
 ::: update Monitoring | 2020-08-31T13:32:00Z
