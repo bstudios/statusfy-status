@@ -22,7 +22,7 @@ The primary backup has been completed and a server upgrade was triggered
 :::
 
 ::: update Ongoing | 2020-09-31T12:43:00Z
-A primary server backup has commenced, this is an extra backup on top of the existing hourly database backups
+A primary server backup has commenced, this is an extra backup on top of the existing daily database backups
 :::
 
 ::: update Investigating | 2020-09-31T12:42:00Z
