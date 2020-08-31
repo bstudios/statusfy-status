@@ -17,6 +17,11 @@ AdamRMS exceeded server limits and crashed
 
 <!--- language code: en -->
 
+
+::: update Monitoring | 2020-08-31T13:32:00Z
+Server upgrade has been completed - service is recovering
+:::
+
 ::: update Ongoing | 2020-08-31T12:56:00Z
 The primary backup has been completed and a server upgrade was triggered
 :::
