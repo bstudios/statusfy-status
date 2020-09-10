@@ -1,7 +1,7 @@
 ---
 title: "AdamRMS down for maintenance to database"
 description: "To resolve intermittent database issues, AdamRMS's database will be migrated to a new cluster requiring downtime"
-date: 2020-09-10T11:00:00Z
+date: 2020-09-10T10:45:00Z
 severity: "under-maintenance"
 affectedsystems:
   - "adamrms-site"
@@ -9,7 +9,7 @@ affectedsystems:
   - "adamrms-app"
   - "adamrms-notifications"
 resolved: false
-scheduled: 2020-09-10T11:00:00Z
+scheduled: 2020-09-10T10:45:00Z
 duration: 120
 ---
 
