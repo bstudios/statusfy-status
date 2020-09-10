@@ -8,9 +8,16 @@ affectedsystems:
   - "adamrms-api"
   - "adamrms-app"
   - "adamrms-notifications"
-resolved: false
+resolved: true
 scheduled: 2020-09-10T10:45:00Z
 duration: 120
 ---
 
+
+
 See https://status.jbithell.com/incidents/3e2e32c5 for details of original incident
+
+
+::: update Paused | 2020-09-10T11:20:00Z
+Migration has been paused and the dashboard brought back online
+:::
