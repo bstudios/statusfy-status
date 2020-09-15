@@ -4,7 +4,7 @@ description: "To resolve intermittent database issues, AdamRMS's database will b
 date: 2020-09-10T10:45:00Z
 severity: "under-maintenance"
 affectedsystems:
-  - "adamrms-site"
+  - "adamrms-dashboard"
   - "adamrms-api"
   - "adamrms-app"
   - "adamrms-notifications"

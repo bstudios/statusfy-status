@@ -9,9 +9,13 @@
     "items": {
 	  "adamrms-api": {
         "title": "AdamRMS API",
-        "description": ""
+        "description": "A way for developers to access the site"
       },
-	  "adamrms-site": {
+      "adamrms-website,": {
+        "title": "AdamRMS Website",
+        "description": "The public AdamRMS website"
+      },
+	  "adamrms-dashboard": {
         "title": "AdamRMS",
         "description": "AdamRMS via a web browser"
       },

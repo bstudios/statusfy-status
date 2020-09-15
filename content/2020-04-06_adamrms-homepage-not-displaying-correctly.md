@@ -4,7 +4,7 @@ description: "We've detected a problem with the cache meaning the project view d
 date: 2020-04-06T15:12:27.347Z
 severity: "partial-outage"
 affectedsystems:
-  - "adamrms-site"
+  - "adamrms-dashboard"
 resolved: true
 ---
 

@@ -4,7 +4,7 @@ description: "In order to support multiple currencies, AdamRMS is down for a dat
 date: 2020-06-09T12:00:00Z
 severity: "under-maintenance"
 affectedsystems:
-  - "adamrms-site"
+  - "adamrms-dashboard"
   - "adamrms-api"
   - "adamrms-app"
 resolved: true

@@ -8,10 +8,11 @@ Runs on github actions to generate a static site when markdown files in "content
 
 ### System Codes
 
-- `adamrms-site`
-- `adamrms-notifications`
-- `adamrms-app`
-- `adamrms-api`
+- `adamrms-website` = Public Website
+- `adamrms-dashboard` = AdamRMS Dashboard
+- `adamrms-notifications` = Ability to send notifications
+- `adamrms-app` = App on Mobile
+- `adamrms-api` = API for external use
 - `beepos-login`
 - `beepos-endofday`
 

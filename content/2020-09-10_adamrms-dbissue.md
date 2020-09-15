@@ -4,13 +4,14 @@ description: "AdamRMS's database is experiencing issues which will be resolved i
 date:  2020-09-10T05:39:00Z
 severity: "degraded-performance"
 affectedsystems:
-  - "adamrms-app"
-  - "adamrms-site"
-  - "adamrms-notifications"
-  - "adamrms-api"
+  - "adamrms-dashboard"
 resolved: false
 
 ---
+
+::: update Investigating | 2020-09-15T13:40:00Z
+Issues have been resolved with notifications, the api and the app
+:::
 
 ::: update Investigating | 2020-09-10T09:50:00Z
 Engineering have begun to bring a new database cluster online

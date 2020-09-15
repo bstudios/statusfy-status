@@ -4,7 +4,7 @@ description: "AdamRMS exceeded server limits, so was taken down for a server upg
 date: 2020-08-31T12:25:00Z
 severity: "major-outage"
 affectedsystems:
-  - "adamrms-site"
+  - "adamrms-dashboard"
   - "adamrms-api"
   - "adamrms-app"
   - "adamrms-notifications"
