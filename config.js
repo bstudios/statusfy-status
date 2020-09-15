@@ -15,7 +15,7 @@ module.exports = {
 	  "dir":"content",
     "frontMatterFormat": "yaml",
 	"systems": [
-		"adamrms-site", "adamrms-notifications", "adamrms-app", "adamrms-api", "beepos-login", "beepos-endofday"
+		"adamrms-dashboard", "adamrms-app", "adamrms-notifications", "adamrms-website", "adamrms-api", "beepos-login", "beepos-endofday"
 	]
   },
   "theme": {
