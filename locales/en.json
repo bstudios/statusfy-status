@@ -11,7 +11,7 @@
         "title": "AdamRMS API",
         "description": "A way for developers to access the site"
       },
-      "adamrms-website,": {
+      "adamrms-website": {
         "title": "AdamRMS Website",
         "description": "The public AdamRMS website"
       },
