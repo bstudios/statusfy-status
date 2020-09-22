@@ -5,9 +5,10 @@ date:  2020-09-10T05:39:00Z
 severity: "degraded-performance"
 affectedsystems:
   - "adamrms-dashboard"
-resolved: false
+resolved: true
 
 ---
+
 
 ::: update Updated | 2020-09-15T18:00:00Z
 Issues have been resolved for all areas except PDF generation which is set to be resolved in planned maintenance
