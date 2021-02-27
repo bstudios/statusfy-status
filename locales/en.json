@@ -26,14 +26,6 @@
 	  "adamrms-app": {
         "title": "AdamRMS App",
         "description": "AdamRMS via a mobile app"
-      },
-	  "beepos-login": {
-        "title": "BeePOS Login",
-        "description": "Login system for tills"
-      },
-	  "beepos-endofday": {
-        "title": "BeePOS Reports",
-        "description": "Report Generation & End of Day for tills"
       }
     }
   }
