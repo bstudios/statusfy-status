@@ -1,13 +1,13 @@
 ---
 title: "Poor pageload performance"
 description: "Pageload time is slower than usual for AdamRMS dashbaord users"
-date: 2020-03-07T10:00:00Z
+date: 2021-03-07T10:00:00Z
 severity: "degraded-performance"
 affectedsystems:
   - "adamrms-dashboard"
 resolved: false
 ---
 
-::: update Identified | 2020-03-07T10:00:00Z
+::: update Identified | 2021-03-07T10:00:00Z
 Cause has been traced to increased latency on the interconnect between the production website servers and the database. We're working with the server suppliers to develop a fix. 
 :::
