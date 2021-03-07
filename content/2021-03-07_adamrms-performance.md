@@ -1,6 +1,6 @@
 ---
 title: "Poor pageload performance"
-description: "Pageload time is slower than usual for AdamRMS dashbaord users"
+description: "Pageload time is slower than usual for AdamRMS dashboard users"
 date: 2021-03-07T10:00:00Z
 severity: "degraded-performance"
 affectedsystems:
