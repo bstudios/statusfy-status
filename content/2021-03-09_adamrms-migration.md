@@ -11,7 +11,7 @@ affectedsystems:
   - "adamrms-public"
 resolved: true
 scheduled: 2021-03-09T14:00:00Z
-duration: 60
+duration: 155
 ---
 
 ::: update Completed | 2021-03-09T16:35:00Z
