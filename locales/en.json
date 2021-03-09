@@ -26,6 +26,10 @@
 	  "adamrms-app": {
         "title": "AdamRMS App",
         "description": "AdamRMS via a mobile app"
+      },
+	  "adamrms-public": {
+        "title": "AdamRMS Public Sites",
+        "description": "AdamRMS Customer's Client interface, for viewing asset lists externally"
       }
     }
   }
