@@ -8,6 +8,7 @@ affectedsystems:
   - "adamrms-api"
   - "adamrms-app"
   - "adamrms-notifications"
+  - "adamrms-public"
 resolved: false
 scheduled: 2021-03-09T14:00:00Z
 duration: 60
