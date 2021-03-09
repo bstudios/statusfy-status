@@ -15,7 +15,7 @@ module.exports = {
 	  "dir":"content",
     "frontMatterFormat": "yaml",
 	"systems": [
-		"adamrms-dashboard", "adamrms-app", "adamrms-notifications", "adamrms-website", "adamrms-api"
+		"adamrms-dashboard", "adamrms-app", "adamrms-notifications", "adamrms-website", "adamrms-api", "adamrms-public"
 	]
   },
   "theme": {
