@@ -8,9 +8,8 @@ affectedsystems:
 resolved: true
 ---
 
-
-::: update Resolved | 2021-03-097T16:00:00Z
-This has been resolved by a migration to a new server platform. Migration has meant pageload times have dropped to around 12% of previous levels. For example loading a large asset list has dropped from 4.5s to 521 ms. 
+::: update Completed | 2021-03-07T10:00:00Z
+This has been resolved by a migration to a new server platform. Migration has meant pageload times have dropped to around 12% of previous levels. For example loading a large asset list has dropped from 4.5s to 521 ms.
 :::
 
 ::: update Identified | 2021-03-07T10:00:00Z
