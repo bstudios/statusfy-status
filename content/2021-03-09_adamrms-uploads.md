@@ -6,8 +6,12 @@ severity: "partial-outage"
 affectedsystems:
   - "adamrms-dashboard"
   - "adamrms-api"
-resolved: false
+resolved: true
 ---
+
+::: update Resolved | 2021-03-09T17:25:00Z
+Uploader has been replaced, and uploads are succeeding again
+:::
 
 ::: update Identified | 2021-03-09T16:00:00Z
 Cause has been traced to an issue with the earlier migration
