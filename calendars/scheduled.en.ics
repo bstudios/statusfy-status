@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Statusfy//status.jbithell.com//calendar//scheduled//EN
+NAME:Bithell Studios
+X-WR-CALNAME:Bithell Studios
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:15f1d621@status.jbithell.com
+SUMMARY:AdamRMS down for migration to new Cloud Platform
+DTSTAMP:20210718T005700Z
+DTSTART:20210309T140000Z
+DTEND:20210309T163500Z
+DESCRIPTION:To resolve performance issues\, AdamRMS is ending its trial of 
+	a serverless public cloud platform early and moving to a more traditional 
+	server stack
+END:VEVENT
+BEGIN:VEVENT
+UID:31a02330@status.jbithell.com
+SUMMARY:AdamRMS down for maintenance to database
+DTSTAMP:20210718T005700Z
+DTSTART:20200910T104500Z
+DTEND:20200910T124500Z
+DESCRIPTION:To resolve intermittent database issues\, AdamRMS's database wi
+	ll be migrated to a new cluster requiring downtime
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8ae47b@status.jbithell.com
+SUMMARY:AdamRMS down for maintenance to database
+DTSTAMP:20210718T005700Z
+DTSTART:20200609T124500Z
+DTEND:20200609T190000Z
+DESCRIPTION:In order to support multiple currencies\, AdamRMS is down for a
+	 database upgrade
+END:VEVENT
+END:VCALENDAR
